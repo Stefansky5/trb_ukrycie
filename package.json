@@ -1,0 +1,12 @@
+{
+  "name": "stremio-ui-override",
+  "version": "1.0.0",
+  "description": "Stremio UI Override addon to hide TRB rows",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "stremio-addon-sdk": "^1.3.7"
+  }
+}

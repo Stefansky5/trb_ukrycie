@@ -1,0 +1,10 @@
+{
+  "id": "org.hide.trb.ui",
+  "version": "1.0.0",
+  "name": "UI Override – Hide TRB",
+  "description": "Hides TRB Watchlist & Featured rows from the Stremio home screen.",
+  "types": ["movie", "series"],
+  "resources": ["uiOverride"],
+  "catalogs": [],
+  "idPrefixes": ["tt"]
+}
